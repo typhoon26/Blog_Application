@@ -5,7 +5,7 @@ const bodyParser = require("body-parser");
 const ejs = require("ejs");
 const lo = require("lodash");
 const mongoose = require("mongoose");
-mongoose.connect('mongodb+srv://ashwin0200:%40sh1nR%23m@cluster0.grcvo.mongodb.net/blogdb', {
+mongoose.connect('mongodb+srv://ashwin0200:%40shw1nR%23m@cluster0.grcvo.mongodb.net/blogdb', {
   useNewUrlParser: true
 });
 var posts = [];
